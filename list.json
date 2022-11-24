@@ -47,5 +47,12 @@
         "logo_url": "https://cdn.jsdelivr.net/gh/China-Frp-Union/cfu-list/logo/MG(J$N@SKVS34IN]6V0LP6I.png",
         "url": "https://www.bing.com/search?q=chmlfrp",
         "code": "YGV7MWHW"
+    },
+    {
+        "name": "LoCyan 内网穿透",
+        "description": "全公益，开放开发者API接口，不限隧道，不限流量，不限速率，拥有国内外节点",
+        "logo_url": "/favoicon",
+        "url": "https://www.freenat.gq",
+        "code": "JRXHB5D4"
     }
 ]
