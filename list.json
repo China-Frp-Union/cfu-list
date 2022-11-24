@@ -3,42 +3,49 @@
         "name": "OpenFrp 开放映射",
         "description": "OpenFrp 是一个免费开放的内网穿透工具",
         "logo_url": "https://www.openfrp.net/index_static/OpenFrpLogo512.png",
-        "url": "https://www.openfrp.net"
+        "url": "https://www.openfrp.net",
+        "code": "DLPYU2N4"
     },
     {
         "name": "StarryFrp 星空内网穿透",
         "description": "StarryFrp 是一个免费的内网穿透工具",
         "logo_url": "https://cdn.starryfrp.com/images/xk-logo.png",
-        "url": "https://frp.starryfrp.com"
+        "url": "https://frp.starryfrp.com",
+        "code": "6WAZCV34"
     },
     {
         "name": "Mr FRP 明日内网穿透",
         "description": "明日内网穿透，免费的内网穿透，MC穿透映射",
         "logo_url": "https://mrfrp.cn/logo.jpg",
-        "url": "https://mrfrp.cn"
+        "url": "https://mrfrp.cn",
+        "code": "2X6J2GYJ"
     },
     {
         "name": "MirrorEdge(ME Frp) 镜缘映射",
         "description": "半公益，稳定，无限带宽/隧道，高可用的内网穿透，免费节点不限流量，付费节点价格低廉，由莱云（https://dash.laecloud.com）运营",
         "logo_url": "https://panel.mefrp.com/assets/lae-dark.png",
-        "url": "https://www.mefrp.com"
+        "url": "https://www.mefrp.com",
+        "code": "AZWB66WB"
     },
     {
         "name": "MossFrp Moss内网穿透",
         "description": "半公益，不限流量，签到白嫖，拥有大量的国内节点，自研后端主控，支持QQ机器人操作",
         "logo_url": "https://www.mossfrp.top/icon.jpg",
-        "url": "https://www.mossfrp.top"
+        "url": "https://www.mossfrp.top",
+        "code": "3EHE4XD3"
     },
     {
         "name": "MuhanFrp 木韩内网穿透",
         "description": "半公益限制流量签到领取流量拥有大量国内节点",
         "logo_url": "1",
-        "url": "https://muhanfrp.cn"
+        "url": "https://muhanfrp.cn",
+        "code": "JZ7JHCCB"
     },
     {
         "name": "chmlfrp 内网穿透",
         "description": "不限流量，无需签到，bug一大坨但是懒得修的免费内网穿透。",
         "logo_url": "https://cdn.jsdelivr.net/gh/China-Frp-Union/cfu-list/logo/MG(J$N@SKVS34IN]6V0LP6I.png",
-        "url": "https://www.bing.com/search?q=chmlfrp"
+        "url": "https://www.bing.com/search?q=chmlfrp",
+        "code": "YGV7MWHW"
     }
 ]
