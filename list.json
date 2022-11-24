@@ -22,10 +22,23 @@
         "description": "半公益，稳定，无限带宽/隧道，高可用的内网穿透，免费节点不限流量，付费节点价格低廉",
         "logo_url": "https://panel.mefrp.com/assets/lae-dark.png",
         "url": "https://www.mefrp.com"
-    },{
+    },
+    {
         "name": "MossFrp Moss内网穿透",
         "description": "半公益，不限流量，签到白嫖，拥有大量的国内节点，自研后端主控，支持QQ机器人操作",
         "logo_url": "https://www.mossfrp.top/icon.jpg",
         "url": "https://www.mossfrp.top"
+    },
+    {
+        "name": "MuhanFrp 木韩内网穿透",
+        "description": "半公益限制流量签到领取流量拥有大量国内节点",
+        "logo_url": "1",
+        "url": "https://muhanfrp.cn"
+    },
+    {
+        "name": "chmlfrp 内网穿透",
+        "description": "不限流量，无需签到，bug一大坨但是懒得修的免费内网穿透。",
+        "logo_url": "布吉岛，要不我发你¿",
+        "url": "https://诶，好像没官网诶，去百度搜chmlfrp试试？"
     }
 ]
