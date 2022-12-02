@@ -1,7 +1,7 @@
 [
     {
         "name": "OpenFrp 开放映射",
-        "description": "OpenFrp 是一个免费开放的内网穿透工具",
+        "description": "OpenFrp 是一个免费开放、多节点、快速便捷的内网穿透工具",
         "logo_url": "https://www.openfrp.net/index_static/OpenFrpLogo512.png",
         "url": "https://www.openfrp.net",
         "code": "DLPYU2N4"
