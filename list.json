@@ -57,8 +57,8 @@
     },
     {
         "name": "DPFRP 内网穿透",
-        "description": "DPFRP是P2P音视频解决方案提供商，拥有完全自主研发的P2P内网穿透技术和流媒体解决方案，实现远程可以访问内网的设备，让设备快速实现视频通话的功能",
-        "logo_url": "https://frpc.cc/favicon.ico",
+        "description": "DPFRP 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息",
+        "logo_url": "https://frpc.cc/favicon.png",
         "url": "https://frpc.cc",
         "code": "EJWT4XC4"
     }
