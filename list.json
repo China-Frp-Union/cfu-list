@@ -54,5 +54,12 @@
         "logo_url": "https://daiyangcheng-1304984587.cos.accelerate.myqcloud.com/frp/Locyan.png",
         "url": "https://www.freenat.gq",
         "code": "JRXHB5D4"
+    },
+    {
+        "name": "DPFRP 内网穿透",
+        "description": "DPFRP是P2P音视频解决方案提供商，拥有完全自主研发的P2P内网穿透技术和流媒体解决方案，实现远程可以访问内网的设备，让设备快速实现视频通话的功能",
+        "logo_url": "https://frpc.cc/favicon.ico",
+        "url": "https://frpc.cc",
+        "code": "EJWT4XC4"
     }
 ]
