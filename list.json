@@ -57,7 +57,7 @@
     },
     {
         "name": "DPFRP 内网穿透",
-        "description": "DPFRP 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息",
+        "description": "DPFRP 是一个免费的内网穿透工具专业提供,内网映射,Nat映射,端口映射,Minecraft的相关信息",
         "logo_url": "https://frpc.cc/favicon.png",
         "url": "https://frpc.cc",
         "code": "EJWT4XC4"
