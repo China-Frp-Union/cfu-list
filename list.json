@@ -54,5 +54,12 @@
         "logo_url": "https://frpc.cc/favicon.png",
         "url": "https://frpc.cc",
         "code": "EJWT4XC4"
+    },
+     {
+        "name": "Helofrp 内网穿透",
+        "description": "Helofrp 提供免费的内网穿透，公益，开放，不限流量，不限速，自研面板，深度定制的安全高效",
+        "logo_url": "https://www.helofrp.top/logo.png",
+        "url": "https://www.helofrp.top",
+        "code": "HELO7BS4"
     }
 ]
