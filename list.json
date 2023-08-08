@@ -2,7 +2,7 @@
     {
         "name": "OpenFrp 开放映射",
         "description": "OpenFrp 是一个免费开放、快速便捷的内网穿透工具, 拥有完全自主产权的网页管理面板，简洁美观的图形化客户端。",
-        "logo_url": "https://www.openfrp.net/index_static/OpenFrpLogo512.png",
+        "logo_url": "https://www.openfrp.net/assets/OpenFrpLogo512.png",
         "url": "https://www.openfrp.net",
         "code": "DLPYU2N4"
     },
@@ -30,16 +30,16 @@
     {
         "name": "MuhanFrp 木韩内网穿透",
         "description": "半公益,限制流量,签到领取流量,拥有大量国内节点",
-        "logo_url": "https://mecdn.mcserverx.com/gh/China-Frp-Union/cfu-list/logo/QQ%E5%9B%BE%E7%89%8720221124212043.jpg",
+        "logo_url": "https://muhanfrp.cn/static/picture/logo.png",
         "url": "https://muhanfrp.cn",
         "code": "JZ7JHCCB"
     },
     {
         "name": "chmlfrp 内网穿透",
         "description": "不限流量，无需签到，bug一大坨但是懒得修的免费内网穿透。",
-        "logo_url": "https://mecdn.mcserverx.com/gh/China-Frp-Union/cfu-list/logo/MG(J$N@SKVS34IN]6V0LP6I.png",
-        "url": "https://www.bing.com/search?q=chmlfrp",
-        "code": "SUANLE"
+        "logo_url": "https://chmlfrp.cn/favicon.ico",
+        "url": "https://chmlfrp.cn",
+        "code": "6OF1QSMO"
     },
     {
         "name": "LoCyan 内网穿透",
@@ -60,6 +60,6 @@
         "description": "Helofrp 提供免费的内网穿透，公益，开放，不限流量，不限速，自研面板，深度定制的安全高效",
         "logo_url": "https://www.helofrp.top/logo.png",
         "url": "https://www.helofrp.top",
-        "code": "HELO7BS4"
+        "code": "4RVPP0S1"
     }
 ]
