@@ -51,7 +51,7 @@
     {
         "name": "DPFRP 内网穿透",
         "description": "DPFRP 是一个免费的内网穿透工具专业提供,内网映射,Nat映射,端口映射,Minecraft的相关信息",
-        "logo_url": "https://frpc.cc/favicon.png",
+        "logo_url": "https://frpc.cc/favicon.ico",
         "url": "https://frpc.cc",
         "code": "EJWT4XC4"
     },
@@ -61,5 +61,13 @@
         "logo_url": "https://www.helofrp.top/logo.png",
         "url": "https://www.helofrp.top",
         "code": "4RVPP0S1"
+    },
+    {
+        "name":"HayFrp 干草内网穿透",
+        "description":"免费、完全公益、为了用户体验而做的内网穿透服务，致力于向用户提供更好的穿透体验！",
+        "logo_url":"https://frp.hxkj.tk/favicon.ico",
+        "url":"https://frp.hxkj.tk/",
+        "code":"FVSKRKNX"
+        
     }
 ]
