@@ -70,6 +70,14 @@
         "code":"FVSKRKNX"
         
     },
+        {
+        "name":"MohuaFrp 内网穿透",
+        "description":"所有节点免费开放，每日可领取免费积分来兑换流量。",
+        "logo_url":"https://img.mhjz1.cn/logo_(12).png",
+        "url":"https://frp.mhjz1.cn",
+        "code":"PACN67CQ"
+        
+    },
     {
         "name":"XingheFrp 星河内网穿透",
         "description":"不限速，免费，给用户高效的内网穿透服务，和体验。",
