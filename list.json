@@ -70,7 +70,7 @@
         "code":"FVSKRKNX"
         
     },
-        {
+    {
         "name":"MohuaFrp 内网穿透",
         "description":"所有节点免费开放，每日可领取免费积分来兑换流量。",
         "logo_url":"https://img.mhjz1.cn/logo_(12).png",
@@ -78,9 +78,17 @@
         "code":"PACN67CQ"
         
     },
+     {
+        "name":"SYTCraftFrp 盛月堂内网穿透",
+        "description":"公益、免费、高速的国创内网穿透。",
+        "logo_url":"https://govfrp.com/assets/index/images/favicon.ico",
+        "url":"https://govfrp.com/",
+        "code":"NUS4Q4QV"
+        
+    },
     {
         "name":"XingheFrp 星河内网穿透",
-        "description":"不限速，免费，给用户高效的内网穿透服务，和体验。",
+        "description":"半公益，免费，给用户高效的内网穿透服务，和体验。",
         "logo_url":"https://xhfrp.xhuzim.top/favicon.ico",
         "url":"https://xhfrp.xhuzim.top",
         "code":"UQ4MND2E"
