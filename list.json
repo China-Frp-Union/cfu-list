@@ -50,14 +50,14 @@
     },
     {
         "name": "DPFRP 内网穿透",
-        "description": "DPFRP 是一个免费的内网穿透工具专业提供,内网映射,Nat映射,端口映射,Minecraft的相关信息",
+        "description": "DPFRP 是一个免费的内网穿透工具，专业提供内网映射、Nat映射、端口映射、Minecraft 的相关信息。",
         "logo_url": "https://frpc.cc/favicon.ico",
         "url": "https://frpc.cc",
         "code": "EJWT4XC4"
     },
      {
         "name": "Helofrp 内网穿透",
-        "description": "Helofrp 提供免费的内网穿透，公益，开放，不限流量，不限速，自研面板，深度定制的安全高效",
+        "description": "Helofrp 提供免费的内网穿透，公益，开放，不限流量，不限速，自研面板，深度定制，安全高效",
         "logo_url": "https://www.helofrp.top/logo.png",
         "url": "https://www.helofrp.top",
         "code": "4RVPP0S1"
@@ -88,7 +88,7 @@
     },
     {
         "name":"XingheFrp 星河内网穿透",
-        "description":"半公益，免费，给用户高效的内网穿透服务，和体验。",
+        "description":"半公益，免费，给用户高效的内网穿透服务和体验。",
         "logo_url":"https://xhfrp.xhuzim.top/favicon.ico",
         "url":"https://xhfrp.xhuzim.top",
         "code":"UQ4MND2E"
